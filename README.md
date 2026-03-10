@@ -68,6 +68,3 @@
 ### Отчёт по 1 проекту 1 спринта
 [Открыть документ отчёта](https://docs.google.com/document/d/1996ktv19e8kQ4iWmdF2nPvnZ2L4eX0Eu3v5DW7RgCEI/edit?tab=t.0) 
 ---
-
-## Автор
-Петлеванный Сергей
